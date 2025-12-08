@@ -1,7 +1,7 @@
 package main
 import "fmt"
 
-func main() {
+func smt() {
 	salary := 30000
 	fmt.Println("Salary:", salary)
 }
